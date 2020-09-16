@@ -1,0 +1,1 @@
+{"version":3,"sources":["Options.css"],"names":[],"mappings":"AAAA,cACI,SACJ,CAEA,MACI,UAAc,CACd,+GACJ","file":"main.27b85264.chunk.css","sourcesContent":["[type=\"number\" ] {\r\n    width: 3ch;\r\n}\r\n\r\nlabel {\r\n    color: #cccccc;\r\n    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;\r\n}"]}

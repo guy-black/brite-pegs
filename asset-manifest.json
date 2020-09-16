@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/brite-pegs/static/css/main.27b85264.chunk.css",
+    "main.js": "/brite-pegs/static/js/main.31369ea5.chunk.js",
+    "main.js.map": "/brite-pegs/static/js/main.31369ea5.chunk.js.map",
+    "runtime-main.js": "/brite-pegs/static/js/runtime-main.c109dafa.js",
+    "runtime-main.js.map": "/brite-pegs/static/js/runtime-main.c109dafa.js.map",
+    "static/js/2.28815cc5.chunk.js": "/brite-pegs/static/js/2.28815cc5.chunk.js",
+    "static/js/2.28815cc5.chunk.js.map": "/brite-pegs/static/js/2.28815cc5.chunk.js.map",
+    "index.html": "/brite-pegs/index.html",
+    "precache-manifest.d2d65e57c196c2f0567591bbef7d96f4.js": "/brite-pegs/precache-manifest.d2d65e57c196c2f0567591bbef7d96f4.js",
+    "service-worker.js": "/brite-pegs/service-worker.js",
+    "static/css/main.27b85264.chunk.css.map": "/brite-pegs/static/css/main.27b85264.chunk.css.map",
+    "static/js/2.28815cc5.chunk.js.LICENSE.txt": "/brite-pegs/static/js/2.28815cc5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c109dafa.js",
+    "static/js/2.28815cc5.chunk.js",
+    "static/css/main.27b85264.chunk.css",
+    "static/js/main.31369ea5.chunk.js"
+  ]
+}
